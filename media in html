@@ -12,8 +12,8 @@
         <img src="download (41).jpg" alt="roman reigns" width="300"height"150">
         </center>
         <h2>Video in html</h2>
-        <video width="300"height="150" controls autoplay>
-            <source src="video.mp4"type="video/mp4">
+        <video width="300"height="150" controls>
+            <source src="video1.mp4"type="video/mp4" height="200" width="400">
                 </video>
   </body>
 </html>
